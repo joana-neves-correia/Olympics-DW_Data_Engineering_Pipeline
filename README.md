@@ -124,7 +124,6 @@ This approach ensures:
 ├── sql/            # SQL scripts (tables, merges, queries)
 ├── ssis/           # SSIS project and packages
 ├── docs/           # Architecture and data model diagrams
-├── data_sample/    # Small sample of dataset (optional)
 ├── README.md
 ```
 
